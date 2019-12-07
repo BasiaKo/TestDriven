@@ -1,1 +1,2 @@
 cos 
+dodaje zmiany do pliku 
