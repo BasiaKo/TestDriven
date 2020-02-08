@@ -1,0 +1,34 @@
+Scenariusz testowy:
+Rejestracja nowego uytkownika na stronie http://automationpractice.com/index.php
+
+
+Przypadki testowe:
+I Niewybrane miasto
+
+Warunki wstepne:
+1. Otwarta przegladarka
+2. Otwarta strona http://automationpractice.com/index.php
+
+Kroki:
+1. Klknij "sign in"
+2. Wpisz e-mail (data@data.com)
+3. Kliknij "create account"
+4. Wybierz tytul
+5. Wpisz imie
+6. Wpisz nazwisko
+7. Sprawdz poprawnosc e-maila
+8. Wpisz haslo
+9. Wybierz date urodzenia
+10. Sprawdz imie
+11. Sprawdz nazwisko
+12. Wpisz firme
+13. Wpisz adres
+14. Wybierz stan
+15. Wpisz kod pocztowy
+16. Wpisz nr telefonu
+17. Wpisz alias adresu
+18. Kliknij register
+
+Oczekiwany rezulat
+(0. konto nie zostaje zalozone)
+1. Wyswietla sie blad - "City is required"
